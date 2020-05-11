@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../source/github/TwilioDevEd/sdk-starter-node"
+		}
+	],
+	"settings": {
+		"browser-preview.startUrl": "http://localhost:3000/",
+		"browser-preview.verbose": false
+	}
+}
